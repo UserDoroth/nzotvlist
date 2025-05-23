@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/UserDoroth/nzotvlist/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
@@ -13,16 +13,16 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/193921016
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3 (2)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3 (2)
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
+
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai", RAI 4K
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
@@ -46,10 +46,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8
@@ -79,10 +79,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/551730224
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/843891896/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai", RAI STORIA
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai", RAI STORIA (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai", RAI YOYO
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169/index.m3u8
@@ -91,10 +91,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/189095016
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 MEDIASET
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 MEDIASET (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 TWENTY SEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset", 27 TWENTY SEVEN
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/608774683/index.m3u8
@@ -145,10 +145,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/353800943
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1351631603/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
@@ -157,10 +157,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/348134685
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport", INTER TV
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2973773076/index.m3u8
@@ -319,10 +319,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/142139311
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
@@ -349,10 +349,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/233057472
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
@@ -361,16 +361,16 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/128126488
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
-
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE (2)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8
 
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE (2)
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
+
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="SKY CINEMA UNO +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA UNO +24
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
@@ -406,16 +406,16 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/128444194
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2 (2)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2 (2)
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
@@ -508,10 +508,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/128977701
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (3)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
@@ -748,10 +748,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/152723692
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -823,10 +823,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/298255043
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8
@@ -862,10 +862,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/239213900
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/576490047/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1200985239/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1565298794/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro", ITALIAN FISHING TV
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/477083716/index.m3u8
@@ -877,10 +877,10 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/803540254
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/3832171692/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5 (2)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
+https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro", LA 7
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8
@@ -1237,22 +1237,19 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://vavoo.to/play/298982440
 #EXTINF:-1 tvg-name="TV Shows" group-title="Eventi Live",--- TV Shows ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="654" tvg-name="Divorce Court Season 26, Episode 175 (14:30)" tvg-logo="https://www.imb.org/wp-content/uploads/2020/01/175-mark-1200x1200.png" group-title="Eventi Live",Divorce Court Season 26, Episode 175 (14:30)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-654.php
-
-#EXTINF:-1 tvg-id="331" tvg-name="Dr. Phil Season 5, Episode 89 (17:00)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/Dr.-Phil-new-Logo-Vector.svg-.png" group-title="Eventi Live",Dr. Phil Season 5, Episode 89 (17:00)
+#EXTINF:-1 tvg-id="331" tvg-name="Dr. Phil Season 5, Episode 89 (17:00)" tvg-logo="https://seeklogo.com/images/D/dr-phil-logo-E91A5979C2-seeklogo.com.png" group-title="Eventi Live",Dr. Phil Season 5, Episode 89 (17:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-331.php
 
-#EXTINF:-1 tvg-id="767" tvg-name="The Price Is Right Season 53, Episode 161 (17:00)" tvg-logo="https://priceisright.com/wp-content/themes/priceisright/images/logo-new.png" group-title="Eventi Live",The Price Is Right Season 53, Episode 161 (17:00)
+#EXTINF:-1 tvg-id="767" tvg-name="The Price Is Right Season 53, Episode 161 (17:00)" tvg-logo="https://logonoid.com/images/the-price-is-right-logo.png" group-title="Eventi Live",The Price Is Right Season 53, Episode 161 (17:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-767.php
 
-#EXTINF:-1 tvg-id="767" tvg-name="Beyond the Gates Season 1, Episode 59 (20:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6855f99a-529e-474b-be73-aad11412f2a1/ddozl92-885d2e15-9e90-4b7d-b4a1-c36f39d23e2c.png/v1/fill/w_512,h_515/beyond_the_gate_movie_folder_icon_v1_by_zenoasis_ddozl92-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTE1IiwicGF0aCI6IlwvZlwvNjg1NWY5OWEtNTI5ZS00NzRiLWJlNzMtYWFkMTE0MTJmMmExXC9kZG96bDkyLTg4NWQyZTE1LTllOTAtNGI3ZC1iNGExLWMzNmYzOWQyM2UyYy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._49wxjJYogs_JEMmRAtK6a3krnH2JL7laFV6Vpr5Zh8" group-title="Eventi Live",Beyond the Gates Season 1, Episode 59 (20:00)
+#EXTINF:-1 tvg-id="767" tvg-name="Beyond the Gates Season 1, Episode 59 (20:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d267879-8465-4ca0-838a-e9a58a683562/db2tk04-e24e3e2c-3115-4755-bb09-2fddb5215b92.png/v1/fill/w_512,h_512/beyond_the_gate1___by_ashuriya_db2tk04-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMGQyNjc4NzktODQ2NS00Y2EwLTgzOGEtZTlhNThhNjgzNTYyXC9kYjJ0azA0LWUyNGUzZTJjLTMxMTUtNDc1NS1iYjA5LTJmZGRiNTIxNWI5Mi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Q_XPGH2v6tUMYWdr79-ficqBiUNXdUy4ncR5BeQBLlM" group-title="Eventi Live",Beyond the Gates Season 1, Episode 59 (20:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-767.php
 
 #EXTINF:-1 tvg-id="52" tvg-name="Beyond the Gates Season 1, Episode 59 (20:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6855f99a-529e-474b-be73-aad11412f2a1/ddozl92-885d2e15-9e90-4b7d-b4a1-c36f39d23e2c.png/v1/fill/w_512,h_515/beyond_the_gate_movie_folder_icon_v1_by_zenoasis_ddozl92-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTE1IiwicGF0aCI6IlwvZlwvNjg1NWY5OWEtNTI5ZS00NzRiLWJlNzMtYWFkMTE0MTJmMmExXC9kZG96bDkyLTg4NWQyZTE1LTllOTAtNGI3ZC1iNGExLWMzNmYzOWQyM2UyYy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._49wxjJYogs_JEMmRAtK6a3krnH2JL7laFV6Vpr5Zh8" group-title="Eventi Live",Beyond the Gates Season 1, Episode 59 (20:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-52.php
 
-#EXTINF:-1 tvg-id="39" tvg-name="Indianapolis 500 Pit Stop Contest Live (20:30)" tvg-logo="https://www.pngkit.com/png/full/854-8549533_logo-2-thumb-png-golden-tee-live-logo.png" group-title="Eventi Live",Indianapolis 500 Pit Stop Contest Live (20:30)
+#EXTINF:-1 tvg-id="39" tvg-name="Indianapolis 500 Pit Stop Contest Live (20:30)" tvg-logo="https://doctorindy.com/wp-content/uploads/2018/07/2015_by400_logo.png" group-title="Eventi Live",Indianapolis 500 Pit Stop Contest Live (20:30)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
 
 #EXTINF:-1 tvg-id="766" tvg-name="General Hospital Season 62, Episode 179 (21:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0253/8910/5237/products/GH-HL-5x5-die-cut-sticker_400x.png?v=1604005143" group-title="Eventi Live",General Hospital Season 62, Episode 179 (21:00)
@@ -1276,31 +1273,22 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="60" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tag Heuer Monaco Grand Prix_vs_Practice 1.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="45" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tag Heuer Monaco Grand Prix_vs_Practice 1.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
-
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tag Heuer Monaco Grand Prix_vs_Practice 1.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
 #EXTINF:-1 tvg-id="60" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tag Heuer Monaco Grand Prix_vs_Qualifying.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tag Heuer Monaco Grand Prix_vs_Qualifying.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="32" tvg-name="Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)" tvg-logo="https://i.redd.it/h6somccxjyab1.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)
+#EXTINF:-1 tvg-id="32" tvg-name="Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/24-1.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)" tvg-logo="https://i.redd.it/h6somccxjyab1.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/24-1.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="32" tvg-name="MotoGP : Storbritanniens Grand Prix Practice 1 (15:15)" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/24-1.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Practice 1 (15:15)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Practice 1 (15:15)" tvg-logo="https://static-cdn.esmg.se/fm/files/8/images/2022-09/mclaren_formula_1_team-logo-brandlogos_net_.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Practice 1 (15:15)
+#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Practice 1 (15:15)" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/24-1.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Practice 1 (15:15)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="60" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tag Heuer Monaco Grand Prix_vs_Qualifying.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
@@ -1327,7 +1315,7 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="39" tvg-name="IndyCar Racing The 109th Running of the Indianapolis 500, Practice (17:00)" tvg-logo="https://loodibee.com/wp-content/uploads/INDYCAR-logo-768x768.png" group-title="Eventi Live",IndyCar Racing The 109th Running of the Indianapolis 500, Practice (17:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
 
-#EXTINF:-1 tvg-id="60" tvg-name="IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)" tvg-logo="https://logodix.com/logo/679140.png" group-title="Eventi Live",IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)
+#EXTINF:-1 tvg-id="60" tvg-name="IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/indycar-series-logo-png-transparent.png" group-title="Eventi Live",IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
 #EXTINF:-1 tvg-id="758" tvg-name="NASCAR Craftsman Truck Series North Carolina Education Lottery 200, Qualifying (21:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Craftsman-Truck-Series-Logo.png" group-title="Eventi Live",NASCAR Craftsman Truck Series North Carolina Education Lottery 200, Qualifying (21:30)
@@ -1335,12 +1323,6 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 
 #EXTINF:-1 tvg-name="Golf" group-title="Eventi Live",--- Golf ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="70" tvg-name="DP World Tour Soudal Open (13:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-DP-World.vresize.350.350.medium.0.png" group-title="Eventi Live",DP World Tour Soudal Open (13:00)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-70.php
-
-#EXTINF:-1 tvg-id="318" tvg-name="DP World Tour Soudal Open (13:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-DP-World.vresize.350.350.medium.0.png" group-title="Eventi Live",DP World Tour Soudal Open (13:00)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-318.php
 
 #EXTINF:-1 tvg-id="318" tvg-name="LPGA Tour Golf Mexico Riviera Maya Open at Mayakoba, Second Round (17:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour Golf Mexico Riviera Maya Open at Mayakoba, Second Round (17:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-318.php
@@ -1369,7 +1351,7 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Florida State vs Texas Tech (21:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Florida State_vs_Texas Tech.png" group-title="Eventi Live",College Softball NCAA Tournament: Florida State vs Texas Tech (21:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="397" tvg-name="College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)" tvg-logo="https://assets.sportsbook.fanduel.com/images/team/ncaab/indiana.png" group-title="Eventi Live",College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)
+#EXTINF:-1 tvg-id="397" tvg-name="College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)" tvg-logo="https://loodibee.com/wp-content/uploads/Iowa_Hawkeyes_logo-300x300.png" group-title="Eventi Live",College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-397.php
 
 #EXTINF:-1 tvg-id="664" tvg-name="College Baseball ACC Tournament: Duke vs Florida State (21:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Duke_vs_Florida State.png" group-title="Eventi Live",College Baseball ACC Tournament: Duke vs Florida State (21:00)
@@ -1381,29 +1363,8 @@ https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Alabama vs Oklahoma (23:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Alabama_vs_Oklahoma.png" group-title="Eventi Live",College Softball NCAA Tournament: Alabama vs Oklahoma (23:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) (13:00)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Eventi Live",Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) (13:00)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
-
-#EXTINF:-1 tvg-id="851" tvg-name="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) (13:00)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Eventi Live",Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) (13:00)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
-
-#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) (13:00)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Eventi Live",Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) (13:00)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
-
-#EXTINF:-1 tvg-id="34" tvg-name="Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km) (14:30)" tvg-logo="https://raw.githubusercontent.com/UserDoroth/nzotvlist/main/logos/Tour of Burgos | Stage 2 Women | Villalba de Duero_vs_Roa de Duero (122km).png" group-title="Eventi Live",Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km) (14:30)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-34.php
-
 #EXTINF:-1 tvg-name="Horse Racing" group-title="Eventi Live",--- Horse Racing ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="554" tvg-name="Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Live racing from around the UK (14:00)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-554.php
-
-#EXTINF:-1 tvg-id="555" tvg-name="Live racing from Haydock, Goodwood, Pontefrat, the Curragh and Downpatrick (14:30)" tvg-logo="https://www.pontefract-races.co.uk/wp-content/themes/twentytwenty-child/assets/images/header/logo-trans.png" group-title="Eventi Live",Live racing from Haydock, Goodwood, Pontefrat, the Curragh and Downpatrick (14:30)
-https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-555.php
 
 #EXTINF:-1 tvg-id="758" tvg-name="America's Day at the Races (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",America's Day at the Races (19:00)
 https://userdoroth-prxnzo.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
